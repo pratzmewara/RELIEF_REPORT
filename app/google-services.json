@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "352038481613",
+    "firebase_url": "https://fir-service-288c0.firebaseio.com",
+    "project_id": "fir-service-288c0",
+    "storage_bucket": "fir-service-288c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352038481613:android:447a68458634632e",
+        "android_client_info": {
+          "package_name": "com.example.yashk.firebase_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352038481613-rbgnbpqutfnqqb26chb4gpqs95u54f8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yashk.firebase_service",
+            "certificate_hash": "576561b43cd92ae09e427c575acee09ed98b42d1"
+          }
+        },
+        {
+          "client_id": "352038481613-bq7stdfcpgjoo7sk0a962t0v4jjie281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQL3I2AWvzit6eEYWPFhL-i_S2GlZGNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352038481613-bq7stdfcpgjoo7sk0a962t0v4jjie281.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352038481613:android:8617aab20786da99",
+        "android_client_info": {
+          "package_name": "com.example.dell.attendence_mgt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352038481613-a8olq7k760oghrcvi849frejluqcd178.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.attendence_mgt",
+            "certificate_hash": "efcb2614b914644a7e5786c04793ad604ef3e140"
+          }
+        },
+        {
+          "client_id": "352038481613-bq7stdfcpgjoo7sk0a962t0v4jjie281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQL3I2AWvzit6eEYWPFhL-i_S2GlZGNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352038481613-bq7stdfcpgjoo7sk0a962t0v4jjie281.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352038481613:android:2d9102aa4ebb663e",
+        "android_client_info": {
+          "package_name": "com.example.dell.reliefweb_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352038481613-5sodj3fma9c1vtffag5abbjecfrvvkoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.reliefweb_api",
+            "certificate_hash": "efcb2614b914644a7e5786c04793ad604ef3e140"
+          }
+        },
+        {
+          "client_id": "352038481613-bq7stdfcpgjoo7sk0a962t0v4jjie281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQL3I2AWvzit6eEYWPFhL-i_S2GlZGNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352038481613-bq7stdfcpgjoo7sk0a962t0v4jjie281.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
